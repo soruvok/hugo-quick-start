@@ -1,0 +1,4 @@
+baseURL = "https://www.ivashyn.nl"
+languageCode = "en-us"
+title = "Deploy Hugo on Render"
+theme = "ananke"
